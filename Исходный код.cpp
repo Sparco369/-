@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <iostream>
 using namespace std;
-class troad
+class road
 {
 public:
 float Length
